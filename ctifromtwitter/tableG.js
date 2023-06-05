@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     // 获取CSV文件路径
-    const csvFilePath = 'yourFile.csv';
+    const csvFilePath = 'ctifromtwitter/securityrelatedterms_ver1.csv';
 
     // 创建XMLHttpRequest对象
     const xhr = new XMLHttpRequest();
